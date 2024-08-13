@@ -44,3 +44,4 @@ Insights:
 Insights:
 - Chamados concentrados em poucos assuntos podem indicar áreas problemáticas no produto ou serviço que necessitam de atenção imediata.
 - A distribuição também ajuda a alocar adequadamente os recursos para as áreas que mais precisam de suporte técnico ou atendimento ao cliente.
+
