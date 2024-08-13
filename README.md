@@ -11,12 +11,12 @@ O Dashboard de Gerenciamento de Chamados é composto por várias seções, cada 
 - **Chamados Rejeitados**: Indica os chamados que foram rejeitados.
 - **Chamados Resolvidos**: Apresenta a quantidade de chamados que foram resolvidos.
 - **Chamados Não Resolvidos**: Mostra os chamados que ainda não foram resolvidos.
-- **Qtde de Chamados Atendidos e Rejeitados por Agente**
-- **Total de Chamados por Mês**
-- **Qtde de Chamados Atendidos e Rejeitados por Assunto**
-- **Média da Velocidade de Resposta em Segundos**
-- **Média de Índice de Satisfação por Agente**
-- **Total de Chamados por Assunto**
+- **Qtde de Chamados Atendidos e Rejeitados por Agente**: Comparativo por agente nos chamados atendidos e rejeitados.
+- **Total de Chamados por Mês**: Evolução do total de chamados por mês.
+- **Qtde de Chamados Atendidos e Rejeitados por Assunto**: Comparativo por assunto nos chamados atendidos e rejeitados.
+- **Média da Velocidade de Resposta em Segundos**: Média do tempo de resposta em segundos.
+- **Média de Índice de Satisfação por Agente**: Média do índice de satisfação por agente.
+- **Total de Chamados por Assunto**: Distribuição dos chamados por assunto.
 
 ---
 
