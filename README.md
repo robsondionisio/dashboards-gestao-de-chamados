@@ -5,7 +5,7 @@
 
 ## Estrutura do Dashboard
 
-O Dashboard de Gerenciamento de Chamados é composto por várias seções, cada uma oferecendo uma visão específica sobre diferentes aspectos do processo de atendimento ao cliente.
+O Dashboard de Gestão de Chamados é composto por várias seções, cada uma oferecendo uma visão específica sobre diferentes aspectos do processo de atendimento ao cliente.
 
 ### Cartões (KPIs)
 - **Total de Chamados**: Mostra o número total de chamados recebidos.
