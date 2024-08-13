@@ -1,6 +1,8 @@
 # Dashboard de Gestão de Chamados
 ## Nexus Soluções
 
+![Captura de tela 2024-08-13 200543](https://github.com/user-attachments/assets/b058e4d8-4b02-4ca2-a975-5b8a3520ccfb)
+
 ## Estrutura do Dashboard
 
 O Dashboard de Gerenciamento de Chamados é composto por várias seções, cada uma oferecendo uma visão específica sobre diferentes aspectos do processo de atendimento ao cliente.
