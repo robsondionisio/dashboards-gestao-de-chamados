@@ -1,7 +1,7 @@
 # Dashboard de Gestão de Chamados
 ## Nexus Soluções
 
-![Captura de tela 2024-08-13 201959](https://github.com/user-attachments/assets/aa77c779-7ea9-4163-a570-0b68953450c0)
+![Captura de tela 2024-08-13 202953](https://github.com/user-attachments/assets/42b63acc-3634-49f8-b625-8d92b805564f)
 
 ## Estrutura do Dashboard
 
