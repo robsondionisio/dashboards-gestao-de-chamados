@@ -7,7 +7,6 @@
 
 O Dashboard de Gestão de Chamados é composto por várias seções, cada uma oferecendo uma visão específica sobre diferentes aspectos do processo de atendimento ao cliente.
 
-### Cartões (KPIs)
 - **Total de Chamados**: Mostra o número total de chamados recebidos.
 - **Chamados Atendidos**: Contagem dos chamados que foram efetivamente atendidos.
 - **Chamados Rejeitados**: Indica os chamados que foram rejeitados.
