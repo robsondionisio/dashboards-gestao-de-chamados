@@ -2,7 +2,8 @@
 ## Nexus Soluções
 
 ![Captura de tela 2024-08-13 202953](https://github.com/user-attachments/assets/42b63acc-3634-49f8-b625-8d92b805564f)
-[Acesse o Dashboard!](https://app.powerbi.com/view?r=eyJrIjoiMWVjMzU4NDAtMjRlMy00MDI1LWIzY2MtMjM2MDYwMTViYjRjIiwidCI6IjdmMTQ3NThiLWM2YTktNDUzZS1iODI0LTQ4ZTJmYjIzNGYwYSJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMWVjMzU4NDAtMjRlMy00MDI1LWIzY2MtMjM2MDYwMTViYjRjIiwidCI6IjdmMTQ3NThiLWM2YTktNDUzZS1iODI0LTQ4ZTJmYjIzNGYwYSJ9" target="_blank">Acesse o Dashboard!</a>
+
 
 
 ## Estrutura do Dashboard
